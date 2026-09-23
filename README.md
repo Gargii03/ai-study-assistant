@@ -1,36 +1,34 @@
-# 🌸 AI Study Assistant
+# AI Study Assistant
 
-An aesthetic, distraction-free web application that transforms lecture notes, textbook excerpts, and PDF documents into high-yield study packages using Google's **Gemini 2.5 Flash** model.
-
----
-
-## ✨ Features
-
-- **Automated Summaries**: Extracts key concepts, definitions, and high-yield study takeaways.
-- **Interactive 3D Flashcards**: Flip-card interface with smooth animations for active recall.
-- **Dynamic Quizzes**: Generates multiple-choice quizzes with instant feedback and answer rationales.
-- **Multimodal Document Parsing**: Supports raw text and direct `.pdf` / `.txt` file uploads.
-- **Curated Editorial Aesthetic**: Soft, eye-friendly palette (Vanilla Cream `#FFF7E6`, Rosewood `#B46A72`, Sage Leaf `#A8B58A`, and Midnight Lagoon `#2D3A47`) paired with Newsreader and Plus Jakarta Sans typography.
+A focused study tool built to parse reading materials, lecture notes, and documents into structured review modules. It processes source material through an LLM backend to automatically construct chapter breakdowns, interactive flashcards, and self-assessment quizzes.
 
 ---
 
-## 🛠 Tech Stack
+### Core Capabilities
 
-- **Frontend**: React, Vite, Tailwind CSS, Lucide Icons
-- **Backend**: Node.js, Express, Multer (file processing)
-- **AI Engine**: `@google/genai` SDK running Gemini 2.5 Flash
+- **Structured Notes Breakdown**: Condenses technical text into clear hierarchical notes, key definitions, and revision points.
+- **Active Recall Cards**: 3D animated flashcard components designed for rapid concept testing.
+- **Automated Knowledge Checks**: Generates multiple-choice questions with answer validation and explanation logic.
+- **Document Ingestion**: Backend file-handling pipeline supporting both raw text inputs and `.pdf` document parsing.
+- **Custom Design System**: Cohesive editorial interface utilizing an earthy, low-contrast palette with Newsreader serif headings and Plus Jakarta Sans body type.
 
 ---
 
-## 🚀 Getting Started
+### Architecture & Tools
 
-### Prerequisites
-- Node.js (v18+)
-- A Gemini API key from [Google AI Studio](https://aistudio.google.com/)
+- **Client**: React, Vite, Tailwind CSS, Lucide React
+- **Server**: Node.js, Express, Multer
+- **Language Model**: Google GenAI API (Gemini 2.5 Flash)
 
-### Installation
+---
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/Gargii03/ai-study-assistant.git](https://github.com/Gargii03/ai-study-assistant.git)
-   cd ai-study-assistant
+### Local Setup
+
+#### Prerequisites
+- Node.js (v18 or higher)
+- A Gemini API key (via Google AI Studio)
+
+#### 1. Clone & Configure
+```bash
+git clone [https://github.com/Gargii03/ai-study-assistant.git](https://github.com/Gargii03/ai-study-assistant.git)
+cd ai-study-assistant
