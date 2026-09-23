@@ -1,0 +1,18 @@
+Photosynthesis and Cellular Respiration
+
+Photosynthesis is the biochemical process by which photoautotrophs (like green plants, algae, and cyanobacteria) convert light energy into chemical energy stored in glucose.
+The general chemical equation for photosynthesis is:
+6CO2 + 6H2O + light energy -> C6H12O6 + 6O2
+
+Key Stages of Photosynthesis:
+1. Light-Dependent Reactions: Occur in the thylakoid membranes of chloroplasts. Chlorophyll absorbs photons, exciting electrons. Water is split (photolysis) to release O2 as a byproduct, producing ATP and NADPH.
+2. Calvin Cycle (Light-Independent Reactions): Occurs in the stroma. Carbon fixation catalyzed by the enzyme RuBisCO uses ATP and NADPH to convert carbon dioxide into 3-carbon sugars (G3P), which eventually form glucose.
+
+Cellular Respiration is the metabolic process by which cells break down glucose to yield ATP energy for cellular work.
+The general chemical equation is:
+C6H12O6 + 6O2 -> 6CO2 + 6H2O + ~36-38 ATP
+
+Key Stages of Cellular Respiration:
+1. Glycolysis: Occurs in the cytoplasm. Breaks 1 glucose into 2 pyruvate molecules, producing a net 2 ATP and 2 NADH. Does not require oxygen (anaerobic).
+2. Krebs Cycle (Citric Acid Cycle): Takes place in the mitochondrial matrix. Generates electron carriers: 6 NADH, 2 FADH2, and 2 ATP per glucose molecule.
+3. Oxidative Phosphorylation & Electron Transport Chain (ETC): Occurs on the inner mitochondrial cristae membrane. High-energy electrons flow through complex I-IV, creating a proton gradient across the inner membrane. ATP synthase uses this chemiosmotic gradient to generate approximately 30-34 ATP. Oxygen is the terminal electron acceptor, forming H2O.
